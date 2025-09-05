@@ -1,0 +1,64 @@
+# IntelliJ
+/.idea/
+/*.iml
+.idea_modules/
+
+# Java build directories
+/out/
+/target/
+/build/
+
+# Gradle
+.gradle/
+
+# Maven
+**/pom.xml.tag
+**/dependency-reduced-pom.xml
+**/release.properties
+
+# Compiled class files
+*.class
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs, temp
+*.log
+*.tmp
+
+# Coverage, IDE caches
+coverage/
+
+# Extra files to stay clean in future
+
+# Jupyter notebooks (if you ever experiment with them)
+*.ipynb
+
+# Checkpoint/backup files
+*.bak
+*.swp
+*.swo
+
+# IntelliJ cache directories (sometimes they sneak in)
+.idea/*
+!*.iml   # but allow module files if you ever want to share them
+
+# Binary executables (just in case you compile with javac -d bin/)
+bin/
+
+# Test reports
+test-output/
