@@ -21,7 +21,7 @@ A comprehensive repository documenting my journey from Java fundamentals to adva
 [Will be updated as progress is made]
 
 ---
-
+<!-- >
 <div align="center">
   
 ### Statistics:
@@ -36,7 +36,7 @@ A comprehensive repository documenting my journey from Java fundamentals to adva
 </div>
 
 ---
-
+<!-->
 ## 📚 Learning Resources
 
 ### Books
