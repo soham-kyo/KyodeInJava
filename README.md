@@ -15,6 +15,8 @@ A comprehensive repository documenting my journey from Java fundamentals to adva
 •⁠  ⁠Unit tests for algorithmic implementations
 •⁠  ⁠Time and space complexity analysis for each algorithm
 
+---
+<!-- >
 ## 📊 Progress Tracking
 
 ### Current Focus: 
@@ -37,6 +39,7 @@ A comprehensive repository documenting my journey from Java fundamentals to adva
 
 ---
 <!-->
+
 ## 📚 Learning Resources
 
 ### Books
