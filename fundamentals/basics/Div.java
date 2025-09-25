@@ -1,4 +1,5 @@
 package fundamentals.basics;
+
 import java.util.Scanner;
 
 public class Div
